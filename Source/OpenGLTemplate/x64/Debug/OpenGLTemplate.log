@@ -1,0 +1,4 @@
+﻿  CatmullRom.cpp
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\catmullrom.cpp(414): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\catmullrom.cpp(510): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  OpenGLTemplate.vcxproj -> D:\Manikandan\Documents\Computer Graphics - Masters\Coursework_INM376_180016989\Source\x64\Debug\OpenGLTemplate.exe

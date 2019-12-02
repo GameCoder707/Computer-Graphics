@@ -1,0 +1,54 @@
+﻿  Asset.cpp
+  Audio.cpp
+  Border.cpp
+  Camera.cpp
+  CatmullRom.cpp
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\catmullrom.cpp(412): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\catmullrom.cpp(508): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Collectible.cpp
+  Cube.cpp
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\cube.cpp(124): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Cubemap.cpp
+  FrameBufferObject.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(205): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(733): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(751): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(836): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(899): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(1013): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(1016): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\game.cpp(1240): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  Obstacle.cpp
+  OpenAssetImportMesh.cpp
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\openassetimportmesh.cpp(44): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Plane.cpp
+  Player.cpp
+  PowerUpAsset.cpp
+  Shaders.cpp
+  Compiling...
+  Skybox.cpp
+  Sphere.cpp
+  Tetrahedron.cpp
+d:\manikandan\documents\computer graphics - masters\coursework_inm376_180016989\source\opengltemplate\tetrahedron.cpp(101): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+     Creating library D:\Manikandan\Documents\Computer Graphics - Masters\Coursework_INM376_180016989\Source\x64\Release\OpenGLTemplate.lib and object D:\Manikandan\Documents\Computer Graphics - Masters\Coursework_INM376_180016989\Source\x64\Release\OpenGLTemplate.exp
+  Generating code
+  All 1806 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLTemplate.vcxproj -> D:\Manikandan\Documents\Computer Graphics - Masters\Coursework_INM376_180016989\Source\x64\Release\OpenGLTemplate.exe

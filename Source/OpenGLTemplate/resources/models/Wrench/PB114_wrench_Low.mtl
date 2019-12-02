@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.03.2019 10:28:58
+
+newmtl lambert3SG
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka PB114_wrench_Low_albedo.jpg
+	map_Kd PB114_wrench_Low_albedo.jpg
+	map_Ks PB114_wrench_Low_roughness.jpg
+	map_bump PB114_wrench_Low_normal.png
+	bump PB114_wrench_Low_normal.png
